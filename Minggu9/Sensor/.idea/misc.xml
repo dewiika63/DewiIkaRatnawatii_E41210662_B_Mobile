@@ -1,0 +1,19 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/StudioProjects/Sensor/app/src/main/res/drawable/ic_format_list.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/StudioProjects/Sensor/app/src/main/res/layout/activity_all_sensor.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/StudioProjects/Sensor/app/src/main/res/layout/activity_light_sensor.xml" value="0.1" />
+        <entry key="..\:/Users/LENOVO/StudioProjects/Sensor/app/src/main/res/layout/activity_main.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/LENOVO/StudioProjects/Sensor/app/src/main/res/layout/item_sensor.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
